@@ -1,0 +1,9 @@
+{
+  "FROM": "AllureAsura@yandex.ru",
+  "REC_FILE": "receivers.txt",
+  "SUBJECT": "Тестовой заголовок",
+  "HOST_ADDR": "smtp.yandex.ru",
+  "PORT": 465,
+  "MESSAGE_FILE": "msg.txt",
+  "ATT_DIR": "add"
+}
